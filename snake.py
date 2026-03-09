@@ -1,4 +1,4 @@
-from turtle import Turtle, up
+from turtle import Turtle
 
 DISTANCE = 20
 UP = 90
