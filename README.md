@@ -1,11 +1,11 @@
-# 🐍 Snake Game (Python - Turtle)
+# Snake Game (Python - Turtle)
 
 This project is a Python-based recreation of the legendary Nokia 3310 Snake game,
 A special appearance by the "Vishal Snake" and "Thala" segments inspired by memes
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 * Control the snake using arrow keys
 * Eat the food to grow longer
@@ -17,13 +17,13 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![Gameplay](Gameplay.png)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -44,7 +44,7 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
 ---
 
-## 🎯 Controls
+## Controls
 
 | Key     | Action     |
 | ------- | ---------- |
@@ -55,7 +55,7 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
 ---
 
-## 🚀 Features
+## Features
 
 * Smooth snake movement
 * Food spawning at random positions
@@ -63,12 +63,4 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 * Collision detection (wall + self)
 * Classic retro green theme
 
----
 
-## 🧠 Concepts Used
-
-* Object-Oriented Programming (OOP)
-* Python Turtle Graphics
-* Game loop & animation
-* File handling (high score saving)
-* Collision detection
