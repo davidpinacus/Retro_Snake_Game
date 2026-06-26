@@ -5,6 +5,12 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
 ---
 
+## Screenshot
+
+![Gameplay](Gameplay.png)
+
+---
+
 ## Gameplay
 
 * Control the snake using arrow keys
@@ -14,12 +20,6 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
   * Snake hits the wall
   * Snake collides with itself
-
----
-
-## Screenshot
-
-![Gameplay](Gameplay.png)
 
 ---
 
