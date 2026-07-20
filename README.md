@@ -26,21 +26,29 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 ## Project Structure
 
 ```
-.
-├── game.py
-├── snake.py
-├── food.py
-├── scoreboard.py
-├── high_score.txt
+Retro Snake Game/
+
+├── assets/
+│   ├── Gameplay.png
+│   └── Updated Gameplay.png
+│
+├── src/
+    ├── food.py
+    ├── scoreboard.py
+    ├── game.py
+    ├── snake.py
+    └── high_score.txt
 ```
+
+---
 
 ### Files Overview
 
-* **game.py** → Main game loop and controls 
-* **snake.py** → Snake movement and growth logic 
-* **food.py** → Random food generation 
-* **scoreboard.py** → Score + high score system 
-* **high_score.txt** → Stores highest score locally 
+* **game.py** → Main game loop and controls
+* **snake.py** → Snake movement and growth logic
+* **food.py** → Random food generation
+* **scoreboard.py** → Score + high score system
+* **high_score.txt** → Stores highest score locally
 
 ---
 
@@ -62,5 +70,3 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 * Score + High Score system (saved locally)
 * Collision detection (wall + self)
 * Classic retro green theme
-
-
