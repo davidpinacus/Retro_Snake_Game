@@ -7,7 +7,7 @@ A special appearance by the "Vishal Snake" and "Thala" segments inspired by meme
 
 ## Screenshot
 
-![Gameplay](Gameplay.png)
+![Gameplay](assets/Gameplay.png)
 
 ---
 
