@@ -30,7 +30,7 @@ Retro Snake Game/
 
 ├── assets/
 │   ├── Gameplay.png
-│   └── Updated Gameplay.png
+│   └── Updated_gameplay.png
 │
 ├── src/
     ├── food.py
